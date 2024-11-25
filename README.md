@@ -45,6 +45,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
+<a href="https://coursera.org/share/ea145a78fd418e4f49eaed803b86c5c6" target="_blank">
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%201-5A5A5A?style=for-the-badge&logo=tryhackme&logoColor=white" />
 <img src="https://img.shields.io/badge/-TryHackMe%20SOC%202-5A5A5A?style=for-the-badge&logo=tryhackme&logoColor=white" />
