@@ -18,15 +18,22 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | EDR Home Lab: Attack & Defense: Simulate and Detect Phishing-Based Malware Deployment      | <a href="https://github.com/users/Nwansijeffersonugonna/projects/1">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SIEM Implementation and Log Analysis | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Investigate ssh and brute force        | <a href="https://google.com">Detection Lab</a>|
+| Investigate RDP brute force | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
+| Sysmon setup tutorial         | SOC Automation Lab|
+| Setup and create alerts and dashboard in kibana      | SOC Automation Lab|
+| How to install Elastic agents on Ubuntu   | SOC Automation Lab|
+| Elastic agent and fleet server setup         | SOC Automation Lab|
+| Elastic search ingest data tutorial      | SOC Automation Lab|
+| Elastic defence setup         | SOC Automation Lab|
+| OSticket + ELK integration      | SOC Automation Lab|
 
 ## Tools
 
