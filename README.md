@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/users/Nwansijeffersonugonna/projects/1">Detection Lab</a>|
+| EDR Home Lab: Attack & Defense: Simulate and Detect Phishing-Based Malware Deployment      | <a href="https://github.com/users/Nwansijeffersonugonna/projects/1">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
