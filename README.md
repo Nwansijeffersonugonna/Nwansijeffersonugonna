@@ -26,7 +26,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Investigate ssh and brute force        | <a href="https://google.com">Detection Lab</a>|
 | Investigate RDP brute force | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
 | Sysmon setup tutorial         | SOC Automation Lab|
 | Setup and create alerts and dashboard in kibana      | SOC Automation Lab|
 | How to install Elastic agents on Ubuntu   | SOC Automation Lab|
